@@ -1,0 +1,89 @@
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    margin: 0;
+}
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.nav-link, .create-btn {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.nav-link:hover, .create-btn:hover {
+    background-color: #0056b3;
+}
+
+.create-btn {
+    background-color: #28a745;
+}
+
+.create-btn:hover {
+    background-color: #218838;
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+.search-btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.search-btn:hover {
+    background-color: #0056b3;
+}
+
+.nav-link, .create-btn {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.nav-link:hover, .create-btn:hover {
+    background-color: #0056b3;
+}
+
+.create-btn {
+    background-color: #28a745;
+}
+
+.create-btn:hover {
+    background-color: #218838;
+}

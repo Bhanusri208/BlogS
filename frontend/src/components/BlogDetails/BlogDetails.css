@@ -1,0 +1,38 @@
+.blog-details {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.blog-details h2 {
+    margin: 0;
+    font-size: 2em;
+}
+.pic{
+    width:20vw;
+}
+.blog-details img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.blog-details p {
+    line-height: 1.6;
+}
+
+.blog-details a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.blog-details a:hover {
+    text-decoration: underline;
+}
